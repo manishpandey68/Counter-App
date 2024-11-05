@@ -7,8 +7,3 @@ A simple **React** app that includes a button that increases a counter value eac
 - **Bootstrap** for styling and layout.
 - Fully responsive design.
 - Simple and easy to use.
-
-## Demo
----
-You can view a live demo of the app [here](#)
----
