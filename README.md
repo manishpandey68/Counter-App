@@ -12,4 +12,3 @@ A simple **React** app that includes a button that increases a counter value eac
 ---
 You can view a live demo of the app [here](#)
 ---
-"# Counter-App" 
